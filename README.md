@@ -128,34 +128,6 @@ ai-investment-strategist/
     └── investment_strategist_app1.log
 ```
 
-## Dependencies
-
-### Core Libraries
-- **streamlit**: Web application framework
-- **yfinance**: Yahoo Finance API client
-- **pandas**: Data manipulation and analysis
-- **numpy**: Numerical computing
-- **plotly**: Interactive data visualization
-- **textblob**: Natural language processing
-
-### AI and ML
-- **agno**: Agent framework for AI workflows
-- **google-generativeai**: Gemini AI integration
-
-
-## Contributing
-
-We welcome contributions to improve the AI Investment Strategist!
-
-### How to Contribute
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Make your changes** and add tests if applicable
-4. **Commit your changes**: `git commit -m 'Add amazing feature'`
-5. **Push to the branch**: `git push origin feature/amazing-feature`
-6. **Open a Pull Request**
-
 ### Development Guidelines
 
 - Follow PEP 8 Python style guidelines
@@ -164,28 +136,7 @@ We welcome contributions to improve the AI Investment Strategist!
 - Write clear documentation
 - Test with different market conditions
 
-## Troubleshooting
 
-### Common Issues
-
-**API Key Errors**
-- Ensure Google API key is correctly set in environment
-- Verify API key has proper permissions
-- Check API quota limits
-
-**Data Fetching Issues**
-- Check internet connection
-- Verify Wikipedia/DataHub accessibility
-- Review error logs for specific issues
-
-**Performance Issues**
-- Reduce stock limit per sector
-- Use shorter historical periods
-- Check system resources
-
-### Logs and Debugging
-
-Application logs are stored in `logs file`. Enable debug logging by modifying the logging level in the application.
 
 ## Roadmap
 
@@ -214,17 +165,6 @@ Application logs are stored in `logs file`. Enable debug logging by modifying th
 - No proprietary market data used
 - Real-time data accuracy depends on source APIs
 
-## Support
-
-### Getting Help
-- **Issues**: Report bugs and feature requests via GitHub Issues
-- **Discussions**: Join community discussions in GitHub Discussions
-- **Documentation**: Check this README and code comments
-
-### Community
-- **GitHub**: [Repository](https://github.com/yourusername/ai-investment-strategist)
-- **Contributors**: See contributors tab for community members
-- **License**: MIT License - see LICENSE file for details
 
 ## Disclaimer
 
@@ -236,9 +176,6 @@ Application logs are stored in `logs file`. Enable debug logging by modifying th
 - **Past Performance**: Historical performance does not guarantee future results
 - **Due Diligence**: Always perform your own research before investing
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
