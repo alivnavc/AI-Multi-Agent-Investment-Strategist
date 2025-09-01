@@ -47,7 +47,7 @@ The AI Investment Strategist is a sophisticated financial analysis platform that
 1. **Clone the repository**
    ```bash
    git clone https://github.com/alivnavc/AI-Multi-Agent-Investment-Strategist.git
-   cd ai-investment-strategist
+   cd AI-Multi-Agent-Investment-Strategist
    ```
 
 2. **Create virtual environment**
