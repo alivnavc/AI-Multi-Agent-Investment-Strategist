@@ -12,6 +12,7 @@ The AI Investment Strategist is a sophisticated financial analysis platform that
 - **Sentiment Analysis**: News sentiment scoring using TextBlob NLP
 - **Interactive Visualizations**: Plotly charts for performance tracking
 
+
 ## Features
 
 ### Core Functionality
